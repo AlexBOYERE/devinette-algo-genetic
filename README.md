@@ -48,4 +48,4 @@ Ceux qui ont des plus gros scores on les fait se "reproduire"
 
 Et ainsi on recrée une population de x en se basant sur les parents
 
-Les enfants obtienne un score... Se reproduisent (mais grandissent avant hein)... Pour créer une nouvelle génération... X fois
+Les enfants obtienne un score... Se reproduisent (mais grandissent avant hein)... Pour créer une nouvelle génération... Y fois
