@@ -143,6 +143,8 @@ func main() {
 		fmt.Println("\n\n", "\nGénération", generation+1, ":", bestPermutation, " (fitness:", fitness(bestPermutation), ")", "\n\n")
 	}
 
+	fmt.Println(population)
+
 	// Afficher la meilleure solution finale
 	fmt.Println("\nSolution finale:", population[0], "(fitness:", fitness(population[0]), ")")
 }
